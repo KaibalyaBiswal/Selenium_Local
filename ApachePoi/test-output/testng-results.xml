@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1478" started-at="2020-05-19T16:22:03Z" finished-at="2020-05-19T16:22:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1478" started-at="2020-05-19T16:22:03Z" finished-at="2020-05-19T16:22:05Z">
+      <class name="FileInputStream.ReadWriteExcel">
+        <test-method status="PASS" signature="writeXlsxExtension()[pri:0, instance:FileInputStream.ReadWriteExcel@548b7f67]" name="writeXlsxExtension" duration-ms="1436" started-at="2020-05-19T21:52:03Z" finished-at="2020-05-19T21:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeXlsxExtension -->
+      </class> <!-- FileInputStream.ReadWriteExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
