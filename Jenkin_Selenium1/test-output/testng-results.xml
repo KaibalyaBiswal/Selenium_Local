@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test_sample" duration-ms="27401" started-at="2020-05-26T14:31:54Z" finished-at="2020-05-26T14:32:22Z">
+    <groups>
+    </groups>
+    <test name="test_jenkins" duration-ms="27401" started-at="2020-05-26T14:31:54Z" finished-at="2020-05-26T14:32:22Z">
+      <class name="com.test.Second_Class_Suite">
+        <test-method status="PASS" signature="suite_test()[pri:0, instance:com.test.Second_Class_Suite@cc285f4]" name="suite_test" duration-ms="6992" started-at="2020-05-26T14:32:15Z" finished-at="2020-05-26T14:32:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suite_test -->
+      </class> <!-- com.test.Second_Class_Suite -->
+      <class name="com.test.Run_Test">
+        <test-method status="PASS" signature="testgooglrsearch()[pri:0, instance:com.test.Run_Test@c038203]" name="testgooglrsearch" duration-ms="20365" started-at="2020-05-26T14:31:55Z" finished-at="2020-05-26T14:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgooglrsearch -->
+      </class> <!-- com.test.Run_Test -->
+    </test> <!-- test_jenkins -->
+  </suite> <!-- test_sample -->
+</testng-results>

@@ -1,0 +1,8 @@
+<suite name="test_sample">
+<test name="test_jenkins">
+<classes>
+<class name="com.test.Run_Test"></class>
+<class name="com.test.Second_Class_Suite"></class>
+</classes>
+</test>
+</suite>
