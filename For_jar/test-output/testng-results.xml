@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24865" started-at="2019-01-05T00:38:13Z" finished-at="2019-01-05T00:38:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24865" started-at="2019-01-05T00:38:13Z" finished-at="2019-01-05T00:38:38Z">
+      <class name="Dependancies.For_jar.Test_Recorder">
+        <test-method status="PASS" signature="testing()[pri:0, instance:Dependancies.For_jar.Test_Recorder@ae45eb6]" name="testing" duration-ms="24828" started-at="2019-01-05T00:38:13Z" finished-at="2019-01-05T00:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- Dependancies.For_jar.Test_Recorder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
