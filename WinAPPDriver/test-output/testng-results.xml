@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23319" started-at="2020-05-29T09:58:42Z" finished-at="2020-05-29T09:59:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23319" started-at="2020-05-29T09:58:42Z" finished-at="2020-05-29T09:59:05Z">
+      <class name="WindowsApplications.Notepad">
+        <test-method status="PASS" signature="Desktop_Notepad()[pri:0, instance:WindowsApplications.Notepad@343f4d3d]" name="Desktop_Notepad" duration-ms="23255" started-at="2020-05-29T09:58:42Z" finished-at="2020-05-29T09:59:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Desktop_Notepad -->
+      </class> <!-- WindowsApplications.Notepad -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
