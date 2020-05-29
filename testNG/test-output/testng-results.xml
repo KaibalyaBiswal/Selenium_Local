@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14569" started-at="2018-07-18T20:23:13Z" finished-at="2018-07-18T20:23:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14569" started-at="2018-07-18T20:23:13Z" finished-at="2018-07-18T20:23:27Z">
+      <class name="Demo.TestWeb">
+        <test-method status="PASS" signature="lunchBrowser()[pri:0, instance:Demo.TestWeb@4de8b406]" name="lunchBrowser" is-config="true" duration-ms="8" started-at="2018-07-18T13:23:13Z" finished-at="2018-07-18T13:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:Demo.TestWeb@4de8b406]" name="openApplication" is-config="true" duration-ms="5" started-at="2018-07-18T13:23:13Z" finished-at="2018-07-18T13:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="readyToOpen()[pri:0, instance:Demo.TestWeb@4de8b406]" name="readyToOpen" is-config="true" duration-ms="1" started-at="2018-07-18T13:23:13Z" finished-at="2018-07-18T13:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readyToOpen -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Demo.TestWeb@4de8b406]" name="setUp" is-config="true" duration-ms="13913" started-at="2018-07-18T13:23:13Z" finished-at="2018-07-18T13:23:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="bankTest()[pri:0, instance:Demo.TestWeb@4de8b406]" name="bankTest" duration-ms="46" started-at="2018-07-18T13:23:27Z" finished-at="2018-07-18T13:23:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankTest -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:Demo.TestWeb@4de8b406]" name="logOut" is-config="true" duration-ms="586" started-at="2018-07-18T13:23:27Z" finished-at="2018-07-18T13:23:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="logOutted()[pri:0, instance:Demo.TestWeb@4de8b406]" name="logOutted" is-config="true" duration-ms="0" started-at="2018-07-18T13:23:27Z" finished-at="2018-07-18T13:23:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutted -->
+        <test-method status="PASS" signature="loggingOut()[pri:0, instance:Demo.TestWeb@4de8b406]" name="loggingOut" is-config="true" duration-ms="1" started-at="2018-07-18T13:23:27Z" finished-at="2018-07-18T13:23:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingOut -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Demo.TestWeb@4de8b406]" name="close" is-config="true" duration-ms="558" started-at="2018-07-18T13:23:27Z" finished-at="2018-07-18T13:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Demo.TestWeb -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
