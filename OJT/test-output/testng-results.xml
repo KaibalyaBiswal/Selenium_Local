@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65869" started-at="2018-02-18T17:24:33Z" finished-at="2018-02-18T17:25:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65869" started-at="2018-02-18T17:24:33Z" finished-at="2018-02-18T17:25:39Z">
+      <class name="TestNg.ValidateTitle">
+        <test-method status="PASS" signature="validate()[pri:0, instance:TestNg.ValidateTitle@2ef5e5e3]" name="validate" duration-ms="65836" started-at="2018-02-18T22:54:33Z" finished-at="2018-02-18T22:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+      </class> <!-- TestNg.ValidateTitle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
