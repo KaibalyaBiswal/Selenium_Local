@@ -7,6 +7,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
@@ -24,11 +25,12 @@ public class Test_Recorder
 	  Date date = new Date();
 	  //Created object of ATUTestRecorder
 	  //Provide path to store videos and file name format.
-	  recorder = new ATUTestRecorder("D:\\Movies\\","TestVideo-"+dateFormat.format(date),false);
+	  recorder = new ATUTestRecorder("E:\\Selenium","TestVideo-"+dateFormat.format(date),false);
 	  //To start video recording.
 	  recorder.start();
-	  WebDriverManager.firefoxdriver().setup();
-	  driver = new FirefoxDriver();
+	  WebDriverManager.chromedriver().setup();
+	  //driver = new FirefoxDriver();
+	  driver=new ChromeDriver();
 	  driver.manage().window().maximize();
 	  driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	  driver.get("http://google.com/");
